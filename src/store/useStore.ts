@@ -26,7 +26,7 @@ interface Actions {
 }
 
 const initialState: State = {
-  code: `import sys\n\nprint("Python", sys.version)\n\n# https://github.com/vwh/python-playground`,
+  code: `import sys\n\nprint("Python", sys.version)\n\n# https://jinef.netlify.app/`,
   output: "Running Python 3.12.7",
   error: null,
   direction: "vertical",

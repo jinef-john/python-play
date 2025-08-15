@@ -11,17 +11,17 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/vwh/python-playground/blob/main/LICENSE">
+  <a href="https://github.com/jinef-john/python-play/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/vwh/python-playground?label=License" alt="License"/>
   </a>
-  <a href="https://github.com/vwh/python-playground/actions/workflows/codeql.yml">
-    <img src="https://github.com/vwh/python-playground/actions/workflows/codeql.yml/badge.svg" alt="Codeql Badge"/>
+  <a href="https://github.com/jinef-john/python-play/actions/workflows/codeql.yml">
+    <img src="https://github.com/jinef-john/python-play/actions/workflows/codeql.yml/badge.svg" alt="Codeql Badge"/>
   </a>
-  <a href="https://github.com/vwh/python-playground/actions/workflows/format.yml">
-    <img src="https://github.com/vwh/python-playground/actions/workflows/format.yml/badge.svg" alt="Check Format Badge"/>
+  <a href="https://github.com/jinef-john/python-play/actions/workflows/format.yml">
+    <img src="https://github.com/jinef-john/python-play/actions/workflows/format.yml/badge.svg" alt="Check Format Badge"/>
   </a>
-  <a href="https://github.com/vwh/python-playground/actions/workflows/lint.yml">
-    <img src="https://github.com/vwh/python-playground/actions/workflows/lint.yml/badge.svg" alt="Lint Badge"/>
+  <a href="https://github.com/jinef-john/python-play/actions/workflows/lint.yml">
+    <img src="https://github.com/jinef-john/python-play/actions/workflows/lint.yml/badge.svg" alt="Lint Badge"/>
   </a>
 </div>
 
@@ -88,4 +88,4 @@ Contributions are welcome! Feel free to open a pull request with your improvemen
 
 ## License
 
-Under the MIT License. See [License](https://github.com/vwh/python-playground/blob/main/LICENSE) for more information.
+Under the MIT License. See [License](https://github.com/jinef-john/python-play/blob/main/LICENSE) for more information.
